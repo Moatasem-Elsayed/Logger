@@ -1,0 +1,5 @@
+Time,Message,Context
+
+Thu Jun  9 23:50:03 2022	INFO	Temperature value is 25ْ 
+Thu Jun  9 23:50:03 2022	DEBUG	[+] temp is less than critical value
+Thu Jun  9 23:50:03 2022	ERROR	Temperature is off due to power
