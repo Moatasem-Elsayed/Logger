@@ -63,3 +63,16 @@ make
 - -L location of library < liblogger.a >
 - -I includes 
 - -llogger name of lib
+
+![image](https://user-images.githubusercontent.com/66727825/172955130-44446aa4-fa05-417c-a1f2-df0cae685d18.png)
+
+----
+
+![image](https://user-images.githubusercontent.com/66727825/172955172-f2f35e4e-e7b3-40f4-bc41-8b3a2ceb8c8b.png)
+
+
+----
+
+![image](https://user-images.githubusercontent.com/66727825/172955228-dadd708a-d5e4-44ad-98c9-244f55ef2d7a.png)
+
+
